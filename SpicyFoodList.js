@@ -48,3 +48,5 @@ function SpicyFoodList() {
     </div>
   );
 }
+
+export default SpicyFoodList;
